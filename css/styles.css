@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Poppins:wght@400;600&display=swap');
+
+body{
+    font-family:"Poppins", sans-serif;
+}
+
+
+
+.navbar-brand{
+    font-size: 35px;
+    transition: all .5s;
+    color:white;
+}
+
+.navbar-brand:hover{
+    color:#E5E502;
+}
+
+.now{
+    color:white;
+    line-height: normal;
+}
+
+.nav-link{
+    transition: all .5s;
+    font-size:18px;
+    color:white;
+}
+.nav-link:hover
+{
+    color:#E5E502;
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.foot{
+    text-align: justify;
+    line-height:normal;
+    margin-top:10px;
+}
+
+.copyright{
+    font-size:13px;
+    margin-top:5px;
+    padding-bottom:10px;
+}
+
+.box{
+    position:relative;
+    border-radius: 0 0 12px 12px;
+    background:#E5E502;
+    height:60px;
+    width:250px;
+    top:0;
+    box-shadow: inset 0px -5px 10px 0px rgba(0, 0, 0, 0.55);
+    justify-content: center;
+    align-items: center;
+    margin-left:6rem;
+    
+}
+#contact{
+    /* background-image: url(/images/background.png); */
+    background-position: center;
+}
+.btn{
+    /* position:relative; */
+    align-items: left;
+    justify-content: end;
+}
+.now{
+    font-size:50px;
+}
+.col{
+    align-items: end;
+    
+}
+
+.live-audio{
+    font-size: 20px;
+}
+.listen{
+    box-shadow:7px 7px 0px 0px #E5E502;
+    border:2px solid black;
+}
+
+
+/* iframe{
+    margin-top:20px;
+    position: relative;
+} */
+
+.about-1{
+    text-align: justify;
+    margin:10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
